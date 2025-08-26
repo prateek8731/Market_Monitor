@@ -7,6 +7,8 @@ altair==5.0.1
 requests==2.31.0
 sqlalchemy==2.0.21
 joblib==1.3.2
+feedparser==6.0.10
+
 
 # ML models
 scikit-learn==1.3.0
