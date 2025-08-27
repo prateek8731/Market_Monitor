@@ -1,7 +1,0 @@
-# System packages needed for Python libraries
-libxml2-dev
-libxslt-dev
-libffi-dev
-libssl-dev
-build-essential
-curl

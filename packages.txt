@@ -1,0 +1,6 @@
+# Minimal system packages required for Python libs used in your app
+libxml2-dev
+libxslt-dev
+libffi-dev
+libssl-dev
+build-essential
